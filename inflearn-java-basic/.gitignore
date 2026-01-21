@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Java
+out/
+*.class
+
+# Gradle & Maven
+.gradle/
+build/
+target/
+
+# macOS
+.DS_Store
+
+# Log
+*.log
