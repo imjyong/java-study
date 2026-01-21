@@ -1,22 +1,19 @@
-# Java
-*.class
-hs_err_pid*
-replay_pid*
-
 # IntelliJ IDEA
 .idea/
 *.iml
-out/
+*.iws
 
-# Gradle
+# Java
+out/
+*.class
+
+# Gradle & Maven
 .gradle/
 build/
-
-# Maven
 target/
-
-# Log
-*.log
 
 # macOS
 .DS_Store
+
+# Log
+*.log
