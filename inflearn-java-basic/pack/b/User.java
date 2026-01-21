@@ -1,0 +1,8 @@
+package pack.b;
+
+public class User {
+    public User() {
+        System.out.println("pack.b 패키지 내 생성자 User() 생성");
+    }
+
+}
